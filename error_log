@@ -1,0 +1,2 @@
+[26-Jul-2024 03:06:05 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/vitxpert/public_html/terra/app/Http/Controllers/HomeController.php on line 45
+[23-Aug-2024 05:12:58 UTC] PHP Fatal error:  Trait "App\Exports\Exportable" not found in /home/vitxpert/public_html/terra/app/Exports/UserExport.php on line 15
